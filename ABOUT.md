@@ -1,4 +1,4 @@
-# Memory Game
+# Memory Game 🧠
 ## A basic image matching game build using React.js
 
 In this memory game, you will be basically given a 3 x 4 grid having 12 cards. You have to match 2 cards having the same image until all cards are turned up.
