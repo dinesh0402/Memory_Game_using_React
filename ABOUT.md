@@ -3,6 +3,8 @@
 
 In this memory game, you will be basically given a 3 x 4 grid having 12 cards. You have to match 2 cards having the same image until all cards are turned up.
 
+**Game Link :-** https://memory-game-a6f52.web.app/
+
 ### How it works :-
 * 👉 The cards are shuffled using useEffect hook of React. Whenever, the game is over or the 'new game' button is pressed, it fires up and shuffles the cards.
 * 👉 We maintain 2 useState hooks to check the state of the 2 slected cards.
@@ -11,3 +13,4 @@ In this memory game, you will be basically given a 3 x 4 grid having 12 cards. Y
 
 ### Technologies used :-
 * React.js
+* Firebase (Hosting)
